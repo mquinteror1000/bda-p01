@@ -1,6 +1,6 @@
 
 ========== Validación de resultados 📋 (Tomar captura desde aquí) ====
-Fecha ............................. 2026-09-14 08:31:37
+Fecha ............................. 2026-10-03 11:59:29
 Usuario ........................... martin
 Hostname .......................... pc-bdx-mqr.n.fi.unam
 Asignatura ........................ bda
@@ -28,4 +28,4 @@ Opción de máquina host ............. 🐧 n
 ✅ [PASS] 16 - Virtualización consistente con la opción 'n': Virtualización detectada (none) es consistente con la opción declarada
 
 🏆 RESUMEN: 16/16 validaciones correctas
-FVH: 3dd734f8545191a370b3ee6ed2c17cfc95af55b82171cf56588b5e7a8a19d66f
+FVH: 3d2838b7a6e5e221ff400adff40ff23d432002fa7eab729c6f16b96395370d1d
