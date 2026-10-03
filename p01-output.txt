@@ -1,0 +1,31 @@
+
+========== Validación de resultados 📋 (Tomar captura desde aquí) ====
+Fecha ............................. 2026-09-14 08:31:37
+Usuario ........................... martin
+Hostname .......................... pc-bdx-mqr.n.fi.unam
+Asignatura ........................ bda
+Semestre .......................... 2027-1
+Práctica .......................... 01
+Opción de máquina host ............. 🐧 n
+=====================================================================
+
+
+✅ [PASS] 01 - Usuario diferente a root: Usuario que ejecuta el script: martin
+✅ [PASS] 02 - Variable UNAM_HOME: Variable UNAM_HOME encontrada: /unam
+✅ [PASS] 03 - Existencia del directorio /unam/bda: Directorio /unam/bda encontrado
+✅ [PASS] 04 - Dueño de /unam/bda diferente de root: Dueño correcto: martin
+✅ [PASS] 05 - Grupo de /unam/bda diferente de root/wheel: Grupo correcto: martin
+✅ [PASS] 06 - Permisos de /unam/bda (755): Permisos correctos: rwxr-xr-x (755)
+✅ [PASS] 07 - Existencia de un único archivo /unam/bda/practicas/01/*-test.txt: Archivo encontrado
+✅ [PASS] 08 - Dueño del archivo diferente a root: Dueño correcto: martin
+✅ [PASS] 09 - Grupo del archivo diferente a root/wheel: Grupo correcto: martin
+✅ [PASS] 10 - Idioma del sistema: Idioma correcto: LANG=en_US.UTF-8
+✅ [PASS] 11 - Zona horaria: Zona horaria correcta: /usr/share/zoneinfo/America/Mexico_City
+✅ [PASS] 12 - Hostname inicia con 'pc-': Prefijo correcto: pc-
+✅ [PASS] 13 - Asignatura en hostname: Asignatura correcta: bdx
+✅ [PASS] 14 - Opción de host y dominio (.fi.unam): Opción 'n' y dominio fi.unam correctos (hostname: pc-bdx-mqr.n.fi.unam)
+✅ [PASS] 15 - Resolución de hostname en /etc/hosts: Hostname pc-bdx-mqr.n.fi.unam resuelve correctamente
+✅ [PASS] 16 - Virtualización consistente con la opción 'n': Virtualización detectada (none) es consistente con la opción declarada
+
+🏆 RESUMEN: 16/16 validaciones correctas
+FVH: 3dd734f8545191a370b3ee6ed2c17cfc95af55b82171cf56588b5e7a8a19d66f
